@@ -4,10 +4,18 @@
   text-decoration: none;
   background-color: #240a2b;
   overscroll-behavior: none;
+  color: #f4e4f9;
 }
 
+.headerContainer{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
 h1 {
-  color: #f4e4f9;
   font-family: "Poetsen One";
-  font-size: 4rem;
+  font-size: 3.5em;
+  height: 100%;
 }
