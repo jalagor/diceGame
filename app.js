@@ -27,5 +27,7 @@ const diceUrl = {
   }
   player1Di = document.querySelector("#player1Di"),
   player2Di = document.querySelector("#player2Di"),
-  header = document.querySelector('h1');
-  
+  header = document.querySelector('h1'),
+  playButton = document.querySelector('button');
+
+  playButton.addEventListener("click", playGame);

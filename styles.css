@@ -18,7 +18,16 @@ h1 {
   font-size: 3.5em;
   height: 100%;
 }
-
+button {
+    background-color: green;
+    display: inline-block;
+    font-family: "Poetsen One";
+    padding: 16px 32px;
+    font-size: 20px;
+    margin-top: 5%;
+    border-radius: 12%;
+    box-shadow: 1px 1px 10px green;
+}
 .diceContainer {
   display: flex;
   width: 80%;
@@ -30,7 +39,6 @@ h1 {
   text-align: center;
   width: 40%;
   padding-left: 10%;
-  /* padding-top: ;  */
 }
 
 h3 {
@@ -50,3 +58,4 @@ h2 {
   font-size: 1.5em;
   font-family: "Roboto";
 }
+
