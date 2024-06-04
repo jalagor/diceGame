@@ -6,7 +6,6 @@
   overscroll-behavior: none;
   color: #f4e4f9;
 }
-
 .headerContainer {
   text-align: center;
   box-sizing: border-box;
@@ -58,4 +57,3 @@ h2 {
   font-size: 1.5em;
   font-family: "Roboto";
 }
-
